@@ -2,16 +2,20 @@
 
 > Um sistema de uma abordagem baseada em IA para controlar o movimento do mouse usando Python e OpenCV com câmera em tempo real que detecta pontos de referência da mão, rastreia padrões de gestos em vez de um mouse físico.
 
-##  Dependências -
-> Por favor, instale todas as dependências necessárias.
-* OpenCV - (Para processamento de imagem e desenho)
-* Mediapipe - (Para rastreamento manual)
-* Autopy - (Para controlar o movimento do mouse e clique)
-* NumPy
+##  Dependências
+> Por favor, instale todas as bibliotecas pendentes necessárias: 
 
-##  Instalação
 
-Para configurar o sistema para desenvolvimento em sua máquina local, siga as instruções abaixo:
+| Bibliotecas | Objetivo | 
+| :---: | :--- |
+| OpenCV | Processamento de imagem e desenho. |
+| Mediapipe | Rastreamento manual. | 
+| Autopy | Controlar o movimento do mouse e clique. |
+| NumPy | Uma biblioteca Python usada para trabalhar com arrays. |
+
+##  Instalação por Git
+
+> Para configurar o sistema para desenvolvimento em sua máquina local, siga as instruções abaixo:
 
 1. Clone o repositório para sua máquina
 
